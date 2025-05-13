@@ -40,12 +40,6 @@ This folder contains small projects that utilize the concepts learned in the tut
 
 - **mini_calculator.py**: A simple Python project that demonstrates basic arithmetic operations.
 
-```bash
-git clone https://github.com/Chenzie2/python-learning.git
-cd python-learning
-```
-
-
 ## Topics Covered
 
 - Python syntax and indentation
@@ -77,6 +71,11 @@ Each folder contains focused examples and exercises to practice and reinforce ea
 ## Getting Started
 
 To get started, simply clone this repository and navigate to the different folders to explore the examples and projects. You can run the Python scripts directly in your terminal or an IDE.
+
+```bash
+git clone https://github.com/Chenzie2/python-learning.git
+cd python-learning
+```
 
 ## Notes
 
